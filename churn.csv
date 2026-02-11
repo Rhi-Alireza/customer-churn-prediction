@@ -1,0 +1,11 @@
+Age,MonthlyCharge,ContractType,Churn
+25,70,Month-to-month,Yes
+40,90,One-year,No
+35,85,Month-to-month,Yes
+50,60,Two-year,No
+28,75,Month-to-month,Yes
+45,65,Two-year,No
+33,80,One-year,No
+29,95,Month-to-month,Yes
+52,55,Two-year,No
+31,88,Month-to-month,Yes
